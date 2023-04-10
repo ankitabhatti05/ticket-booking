@@ -11,6 +11,6 @@
 
 
 
-- [Insta1ll it from here](https://laravel.com/docs/8.x/installation).
-- php artisan migra1te.
+- [Install it from here](https://laravel.com/docs/8.x/installation).
+- php artisan migrate.
 - php artisan db:seed.
